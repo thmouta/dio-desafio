@@ -1,2 +1,17 @@
-Link para download do Git: 
+Link para download do Git:  https://git-scm.com/book/pt-br/v2/Come%C3%A7ando-Instalando-o-Git
 O Git Bash é um terminal extendido para otimizar o uso do Git.
+
+Alguns comando básicos ->
+
+git init -> usado para se iniciar a conexão da máquina com o seu gitHub.
+
+git clone -> usado para clonar o seu projeto do guiHub para o repositório local.
+
+git commit -> usado para fazer o versionamento do projeto, é importante descrever qual a atualização que foi realizada.
+
+git push -> finalmente atualiza seu versionamento no gitHub, e não apenas na nuvem.
+
+git status -> mostra qual o status do seu repositório.
+
+
+
