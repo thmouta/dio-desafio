@@ -9,7 +9,7 @@ git clone -> usado para clonar o seu projeto do guiHub para o repositório local
 
 git commit -> usado para fazer o versionamento do projeto, é importante descrever qual a atualização que foi realizada.
 
-git push -> finalmente atualiza seu versionamento no gitHub, e não apenas na nuvem.
+git push origin master -> finalmente atualiza seu versionamento no gitHub, e não apenas na nuvem.
 
 git status -> mostra qual o status do seu repositório.
 
